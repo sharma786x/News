@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="hint">Enter Keyword</string>
+    <string name="noInternet">No internet connection</string>
+    <string name="noItems">No items related to search query found</string>
+    <string name="top">Top</string>
+    <string name="tech">Technology</string>
+    <string name="politics">Politics</string>
+    <string name="biz">Business</string>
+    <string name="allUrl">http://content.guardianapis.com/search?&amp;api-key=test</string>
+    <string name="politicsUrl">https://content.guardianapis.com/politics?&amp;api-key=test</string>
+    <string name="bizUrl">https://content.guardianapis.com/business?&amp;api-key=test</string>
+    <string name="techUrl">https://content.guardianapis.com/technology?&amp;api-key=test</string>
+    <string name="etHint">Enter a Keyword</string>
+
+</resources>
